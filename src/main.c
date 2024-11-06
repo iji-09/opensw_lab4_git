@@ -4,7 +4,8 @@
 int main() {
 
     foo();
-    printf("main\n");
+    goo();
+    printf("main is wonderful\n");
 
     return 0;
 }
